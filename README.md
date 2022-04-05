@@ -115,7 +115,7 @@ To increase model performance, it takes following steps:
 
 ***Recommendation for further analysis***
 
-- After some fine-tuning the model reach accuracy score of 57.30%.
+- After some fine-tuning the model reach accuracy score of 57.80%.
 - Although the model reached the required criteria it might not be the best model for this dataset. 
 - The loss score for that model is still about 60%, what is quite high. 
 - Dataset that we were working on seemed good fit because of the length of the dataset and its complexity, even though the results weren't the best. Adding new input values seemed a good choice when improving the model accuracy. 
