@@ -75,7 +75,7 @@ With the help of Pandas knowledge and the Scikit-Learn’s StandardScaler(), we 
 **Were you able to achieve the target model performance?**
 
 - Yes. After few configurations we achieve the target model performance.
-- The model accuracy improved to 76.30%. Figures below show accuracy score after optimization at  76.30% and before optimization at 72.41%.
+- The model accuracy improved to 76.16%. Figures below show accuracy score after optimization at  76.16% and before optimization at 72.44%.
 
 <p align="center">
 <img src="Images/AccuracyAfter.png" width="60%" height="60%">
