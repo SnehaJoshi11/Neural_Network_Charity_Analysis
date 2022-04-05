@@ -104,18 +104,18 @@ To increase model performance, it takes following steps:
 -	Binned the **ASK_AMT** values.
 -	At first, we added the third layer with 40 neurons; however, we’ve changed back to 2 layers, because the results did not improve much if any. 
 -	Increase neurons for each layer (200 for 1st, 90 for 2nd).
--	Increase Epochs to 500.
+-	Increase Epochs to 200.
 
 ## Summary
 
 ***Summary of the results***
 
 - The model loss and accuracy score tell us how well the model does with the dataset and parameters that we build the model.
-- Loss score is equal to 0.609, meaning the probability model to fail is 60.89% and accuracy score is 0.7630, meaning that the probability model to be accurate is 76.30%.
+- Loss score is equal to 0.5799, meaning the probability model to fail is 50.80% and accuracy score is 0.7616, meaning that the probability model to be accurate is 76.16%.
 
 ***Recommendation for further analysis***
 
-- After some fine-tuning the model reach accuracy score of 67.30%.
+- After some fine-tuning the model reach accuracy score of 57.30%.
 - Although the model reached the required criteria it might not be the best model for this dataset. 
 - The loss score for that model is still about 60%, what is quite high. 
 - Dataset that we were working on seemed good fit because of the length of the dataset and its complexity, even though the results weren't the best. Adding new input values seemed a good choice when improving the model accuracy. 
